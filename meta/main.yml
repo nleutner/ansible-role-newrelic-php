@@ -3,7 +3,7 @@ dependencies: []
 
 galaxy_info:
   author: Norman Leutner
-  description: New Relic PHP Agent role / Application monitoring for RHEL/CentOS, Ubunto, Debian
+  description: New Relic PHP Agent role / Application monitoring for RHEL/CentOS, Ubuntu, Debian
   company: "all2e GmbH"
   license: "license (BSD, MIT)"
   min_ansible_version: 1.4
